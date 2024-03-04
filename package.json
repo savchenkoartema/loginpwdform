@@ -1,0 +1,23 @@
+{
+  "name": "simpleloginpwdform",
+  "version": "1.0.0",
+  "description": "A simple form validator for validating email addresses and passwords commonly used in login forms.",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savchenkoartema/loginpwdform.git"
+  },
+  "author": "savchenkoartema",
+  "license": "MIT",
+  "keywords": [
+    "form",
+    "validator",
+    "login",
+    "password",
+    "email"
+  ],
+  "dependencies": {
+    "validator": "^13.6.0",
+    "lodash": "^4.17.21"
+  }
+}
